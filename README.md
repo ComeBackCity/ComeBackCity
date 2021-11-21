@@ -1,9 +1,10 @@
-## Hello, I'm Gourab Saha  
+## Hi, I'm Gourab Saha  
 -------------------------
 
-
-
-
+- I'm currently a student in Bangladesh University of Engineering and Technology, Dhaka
+- I'm an aspiring Software Engineer
+- Reach me through [gourabsaha567@gmail.com](gourabsaha567@gmail.com)
+- Check out my resume [here](https://drive.google.com/file/d/1Nug6rEmr2rClUKfICp9zeJ1JempUc3al/view?usp=sharing)
 <!--
 **ComeBackCity/ComeBackCity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
