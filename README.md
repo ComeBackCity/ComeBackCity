@@ -18,3 +18,33 @@
 <img src="https://img.icons8.com/color/48/000000/css3.png"/>
 <img src="https://img.icons8.com/color/48/000000/dart.png"/>
 </p>
+
+#### Frameworks
+
+<p float="float">
+<img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+<img src="https://img.icons8.com/ultraviolet/40/000000/react--v2.png"/>
+<img src="https://img.icons8.com/color/48/000000/django.png"/>
+<img src="https://img.icons8.com/color/48/000000/flutter.png"/>
+</p>
+
+
+#### Datbases
+<p float="left">
+<img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png"/>
+<img src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
+<img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+<img src="https://img.icons8.com/color/48/000000/cloud-firestore.png"/>
+</p>
+
+
+#### Others
+<p float="left">
+<img src="https://img.icons8.com/color/48/000000/git.png"/>
+<img src="https://img.icons8.com/fluency/48/000000/github.png"/>
+<img src="https://img.icons8.com/color/48/000000/linux--v2.png"/>
+<img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
+<img src="https://img.icons8.com/color/48/000000/google-cloud-platform.png"/>
+<img src="https://img.icons8.com/color/48/000000/firebase.png"/>
+<img src="https://img.icons8.com/fluency/48/000000/docker.png"/>
+</p>
