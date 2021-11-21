@@ -6,7 +6,7 @@
 - Reach me through [gourabsaha567@gmail.com](gourabsaha567@gmail.com)
 - Check out my resume [here](https://drive.google.com/file/d/1Nug6rEmr2rClUKfICp9zeJ1JempUc3al/view?usp=sharing)
 
-#### Languages
+## Languages
 
 <p float="left">
 <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
@@ -19,7 +19,7 @@
 <img src="https://img.icons8.com/color/48/000000/dart.png"/>
 </p>
 
-#### Frameworks
+## Frameworks
 
 <p float="float">
 <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
@@ -29,7 +29,7 @@
 </p>
 
 
-#### Datbases
+## Datbases
 <p float="left">
 <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png"/>
 <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
@@ -38,7 +38,7 @@
 </p>
 
 
-#### Others
+## Others
 <p float="left">
 <img src="https://img.icons8.com/color/48/000000/git.png"/>
 <img src="https://img.icons8.com/fluency/48/000000/github.png"/>
@@ -49,7 +49,7 @@
 <img src="https://img.icons8.com/fluency/48/000000/docker.png"/>
 </p>
 
-#### Want to learn
+## Want to learn
 <p float="left">
 <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
 <img src="https://img.icons8.com/ios-filled/50/000000/unity.png"/>
@@ -57,13 +57,13 @@
 </p>
 
 
-#### Stats  
+## Stats  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ComeBackCity&layout=compact)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ComeBackCity&show_icons=true&count_private=true)
 
-#### Interests
+## Interests
 
 - I love solving problems even though I'm not big into competitive programming
 - I love devloping stuffs
