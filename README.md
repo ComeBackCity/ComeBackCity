@@ -1,4 +1,4 @@
-## Hi, I'm Gourab Saha  
+# Hi, I'm Gourab Saha  
 -------------------------
 
 - I'm currently a student in Bangladesh University of Engineering and Technology, Dhaka
@@ -55,3 +55,18 @@
 <img src="https://img.icons8.com/ios-filled/50/000000/unity.png"/>
 <img src="https://img.icons8.com/ios-filled/50/000000/unreal-engine.png"/>
 </p>
+
+
+#### Stats  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ComeBackCity&layout=compact)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ComeBackCity&show_icons=true&count_private=true)
+
+#### Interests
+
+- I love solving problems even though I'm not big into competitive programming
+- I love devloping stuffs
+- I want to learn more related to devops
+- Working on improving my frontend development skills
+- I'm also intersted in game development and hope to start getting into this field soon
