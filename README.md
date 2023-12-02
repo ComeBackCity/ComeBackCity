@@ -20,7 +20,16 @@
 <img src="https://img.icons8.com/color/48/000000/dart.png"/>
 </p>
 
-## Frameworks
+## Deep Learning Frameworks
+
+<p float="float">
+<img src="https://icons8.com/icon/O6SWwpPIM0GB/pytorch"/>
+<img src="https://img.icons8.com/ultraviolet/40/000000/react--v2.png"/>
+<img src="https://img.icons8.com/color/48/000000/django.png"/>
+<img src="https://img.icons8.com/color/48/000000/flutter.png"/>
+</p>
+
+## Software Development Frameworks
 
 <p float="float">
 <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
