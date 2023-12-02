@@ -24,9 +24,9 @@
 
 <p float="float">
 <img width="64" height="64" src="https://img.icons8.com/arcade/64/pytorch.png" alt="pytorch"/>
-<img src="https://img.icons8.com/ultraviolet/40/000000/react--v2.png"/>
+<!-- <img src="https://img.icons8.com/ultraviolet/40/000000/react--v2.png"/>
 <img src="https://img.icons8.com/color/48/000000/django.png"/>
-<img src="https://img.icons8.com/color/48/000000/flutter.png"/>
+<img src="https://img.icons8.com/color/48/000000/flutter.png"/> -->
 </p>
 
 ## Software Development Frameworks
