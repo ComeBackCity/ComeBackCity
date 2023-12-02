@@ -1,10 +1,11 @@
 # Hi, I'm Gourab Saha  
 -------------------------
 
-- I'm currently a student in Bangladesh University of Engineering and Technology, Dhaka
-- I'm an aspiring Software Engineer
+- I am a prospective graduate student
+- I have completed my undergraduate from Bangladesh University of Engineering and Technology, Dhaka
+- I'm an aspiring researcher with a particular interest in computational biology and bio-medical computer vision
 - Reach me through [gourabsaha567@gmail.com](gourabsaha567@gmail.com)
-- Check out my resume [here](https://drive.google.com/file/d/1Nug6rEmr2rClUKfICp9zeJ1JempUc3al/view?usp=sharing)
+- Check out my resume [here](https://drive.google.com/file/d/1vTmw3SrxnRaX8hBvaHGdiFnTcBhjZKfy/view?usp=sharing)
 
 ## Languages
 
